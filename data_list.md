@@ -1,0 +1,5 @@
+[Paracetamol](https://raw.githubusercontent.com/MAI3003-Data-Witches/MedicalChatbot/b07133842f18d7fab2bfb6da46cd6ecebd633f1f/data/Paracetamol.pdf)
+[Cetirizine](https://raw.githubusercontent.com/MAI3003-Data-Witches/MedicalChatbot/b07133842f18d7fab2bfb6da46cd6ecebd633f1f/data/cetirizine.pdf)
+[Diclofenac](https://raw.githubusercontent.com/MAI3003-Data-Witches/MedicalChatbot/b07133842f18d7fab2bfb6da46cd6ecebd633f1f/data/diclofenac.pdf)
+[Ibuprofen](https://raw.githubusercontent.com/MAI3003-Data-Witches/MedicalChatbot/b07133842f18d7fab2bfb6da46cd6ecebd633f1f/data/ibuprofen.pdf)
+[Xylometazoline](https://raw.githubusercontent.com/MAI3003-Data-Witches/MedicalChatbot/b07133842f18d7fab2bfb6da46cd6ecebd633f1f/data/xylometazoline.pdf)
